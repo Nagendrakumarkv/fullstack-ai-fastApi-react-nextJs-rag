@@ -1,3 +1,15 @@
+
+-> Create a virtual environment and activate it:
+
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# Mac/Linux
+source venv/bin/activate
+-------------------------------------------------------------------------------------------
+
+-> To check available gemini models list
+
 (venv) D:\python\fast-api-react-nextJs-rag>python check_models.py
 
 Fetching available models...
