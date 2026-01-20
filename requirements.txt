@@ -13,3 +13,4 @@ langgraph
 duckduckgo-search
 ddgs
 rank_bm25
+mcp
